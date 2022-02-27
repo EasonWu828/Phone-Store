@@ -8,7 +8,7 @@
 - 撰寫 RWD 版型
 - 動畫、輪播效果
 
-使用技術: HTML、CSS
+使用技術: HTML、CSS  
 套件: AOS、Swiper
 
 #### 參考來源
